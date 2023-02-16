@@ -1,0 +1,26 @@
+
+.homeH1New2{
+    margin-top: 15px;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Open Sans';
+  }
+
+.detailsWeatherContainer{
+    margin-left: 70px;
+    width: 500px;
+    height: 300px;
+    background: #FFF3E4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans';
+}
+
+.boxDetailsWeather{
+    width: 500px;
+    height:300px;
+    background: #FFF3E4;
+}

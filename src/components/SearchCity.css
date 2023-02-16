@@ -1,0 +1,30 @@
+ 
+.searchCityContainer{
+    width: 36%;
+    flex-direction: row;
+    border-width: 0px;
+    justify-items: auto;
+    align-items: center;
+  }
+  
+  .Input-new1{
+    width: 100%;
+    height: 56px;
+    margin-top: 26px;
+    /* margin-left: 70px; */
+    margin-bottom: 50px;
+    border: 0px;
+    display: block;
+    padding-left: 20px;
+    font-size:23px; 
+    font-family: 'Open Sans';
+  }
+
+  @media screen and (max-width: 490px) {
+    .Input-new1{
+      width: 300px;
+      align-self: center;   
+    }
+  }
+
+

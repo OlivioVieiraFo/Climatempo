@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;700&display=swap');
+
+/* 
+.homeContainer {
+  background-color: #0E0E0E;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Open Sans";
+} */
+
+.homeH1New1{
+  margin-top: 6%;
+  font-size: 64px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Open Sans';
+}
